@@ -1,0 +1,16 @@
+CapsLock & Numpad1::Return
+CapsLock & Numpad2::Return
+CapsLock & Numpad3::Return
+CapsLock & Numpad4::Return
+CapsLock & Numpad5::Return
+CapsLock & Numpad6::Return
+CapsLock & Numpad7::Return
+CapsLock & Numpad8::Return
+CapsLock & Numpad9::Return
+CapsLock & Numpad0::Return
+CapsLock & NumpadDot::Return
+CapsLock & NumpadAdd::Return
+CapsLock & NumpadSub::Return
+CapsLock & NumpadMult::Return
+CapsLock & NumpadDiv::Return
+CapsLock & NumpadEnter::Return
